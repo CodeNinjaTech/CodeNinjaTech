@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeNinjaTech
+- 👋 Hi, I’m Lefteris ( @CodeNinjaTech )
 - 👀 I’m interested in Business-Analytics / Data-Science / Database-Administration subjects
 - 🌱 Holding a Master of Science in Business Analytics
 - 💞️ I’m looking to collaborate on the forementioned subjects of interest
